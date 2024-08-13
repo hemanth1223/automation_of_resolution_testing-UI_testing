@@ -45,12 +45,14 @@ The following devices and resolutions are to be tested:
 Clone this repository to your local machine:
 ```bash
 git clone https://github.com/hemanth1223/automation_of_resolution_testing-UI_testing.git
+```
 
 ### 2. Setting Up the Environment
 Navigate to the project directory and install the required Python packages:
 ```bash
 cd automation_of_resolution_testing-UI_testing
 pip install -r requirements.txt
+```
 
 ### 3. Running the Tests
 1. For Chrome and Firefox on Windows OS:
@@ -59,11 +61,12 @@ Update the paths to the WebDrivers in the script if necessary.
 Run the test script to capture screenshots and validate the pages:
 ```bash
 python test_script.py
+```
 
 2. For Safari on MAC OS:
 Follow similar steps using a MAC OS environment.
 
-4. Validation
+### 4. Validation
 1. Screenshots
 The screenshots are saved in a folder structure as follows:
 
