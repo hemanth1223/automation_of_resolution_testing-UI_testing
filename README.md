@@ -67,7 +67,7 @@ python test_script.py
 Follow similar steps using a MAC OS environment.
 
 ### 4. Validation
-1. Screenshots
+1. Screenshots:
 The screenshots are saved in a folder structure as follows:
 ```bash
 screenshots/
@@ -87,17 +87,17 @@ screenshots/
           └── screenshot-date-time.png
 ```
 
-2. Video
+2. Video:
 A video of the test in running mode should be recorded (optional).
 
-3. Script Validation
+3. Script Validation:
 Use the provided validation script to check if all required screenshots are captured.
 
-Notes
+Notes:
 - Chrome does not have built-in or additional features to capture full-page screenshots. It can only capture the visible screen area.
 - Firefox has built-in functionality to capture full-page screenshots.
 - For Safari testing, please use a MAC OS environment and follow similar steps to those used for Chrome and Firefox.
 
-Troubleshooting
+Troubleshooting:
 - Ensure that all WebDriver executables are in your system's PATH or provide absolute paths in the script.
 - For any issues, check the documentation or raise an issue in the repository.
