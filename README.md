@@ -1,4 +1,4 @@
-# Automation Test 01 - UI Testing
+# Automation Test - UI Testing
 
 This repository contains automation scripts and results for UI testing of a website across various browsers and screen resolutions. 
 
