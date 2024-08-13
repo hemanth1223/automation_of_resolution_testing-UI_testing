@@ -69,7 +69,7 @@ Follow similar steps using a MAC OS environment.
 ### 4. Validation
 1. Screenshots
 The screenshots are saved in a folder structure as follows:
-
+```bash
 screenshots/
   └── Chrome/
       └── 1920x1080/
@@ -85,6 +85,7 @@ screenshots/
           └── screenshot-date-time.png
       └── 1536x864/
           └── screenshot-date-time.png
+```
 
 2. Video
 A video of the test in running mode should be recorded (optional).
