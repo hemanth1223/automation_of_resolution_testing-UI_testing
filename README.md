@@ -1,0 +1,1 @@
+# automation_of_resolution_testing-UI_testing
